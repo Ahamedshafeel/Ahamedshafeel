@@ -8,8 +8,8 @@
 
 ```java
 public class AhamedShafeel {
-    private String name = "Ahmed Shafeel M";
-    private String location = "Chennai, India";
+    private String name = "Ahamed Shafeel M";
+    private String location = "Velachery Chennai, India";
     private String role = "Full Stack Developer";
     private String[] skills = {"React", "Spring Boot", "JavaScript", "SQL", "HTML/CSS"};
     private String[] learning = {"Advanced System Design", "Cloud Architecture", "DevOps"};
