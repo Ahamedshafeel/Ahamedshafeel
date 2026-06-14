@@ -133,7 +133,7 @@ Government College of Engineering, Bargur
 
 **Higher Secondary Education**  
 St. Vincent Palloti Matriculation School  
-*2020 - 2022* | **87% (XI - All subjects)**
+*2020 - 2022* | **87% (XII - All subjects)**
 
 ---
 
